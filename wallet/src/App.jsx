@@ -16,7 +16,7 @@ import {
 } from "@mui/material";
 import Autocomplete from "@mui/material/Autocomplete";
 
-const API = "https://tesseract-wallet.onrender.com";
+const API = "https://tesseract-wallet-1.onrender.com";
 
 export default function App() {
   const [username,setUsername] = useState("");
